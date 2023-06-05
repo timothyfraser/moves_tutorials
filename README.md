@@ -6,6 +6,5 @@ In 2023, the Center for Transportation, Environment, and Community Health (CTECH
 ## Webinar 1: Using MOVES for County Emissions Estimation
 by Dr. Timothy Fraser @ Cornell, June 6, 2023
 - [Webinar Slides](https://docs.google.com/presentation/d/1MXRQwDFVLDUy97fwjWb-eNOuxcO5JPxZdP0rwl7JgH0/edit?usp=sharing)
-- Webinar Recording (To be Posted Soon)
-- [Webinar Zoom Link](https://cornell.zoom.us/j/99285178485?pwd=ckJ1aGNqbUFEUnRtSFBXeGZQTS84QT09)
+- [Webinar Recording](https://vod.video.cornell.edu/media/CTECH+WebinarA+%22Using+MOVES+for+County+Emissions+Estimation%22+with+Dr.+Tim+Fraser/1_866t6g1u)
 - Abstract: The EPA’s MOtor Vehicle Emission Simulator (MOVES) is a major tool for modeling emissions from transportation at the national, county, and project level for criteria air pollutants and greenhouse gases. In this talk, Dr. Tim Fraser will introduce the basic usage and workflow of the MOVES software on a windows computer, including querying and post-processing MOVES outputs post-analysis in R. This talk aims to serve as an introduction to new potential MOVES users, including policy practitioners, researchers, and graduate students.
